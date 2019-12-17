@@ -26,7 +26,8 @@ end
   end 
   end
 
-  def count_sentences
-self.count 
+  def count_sentences (sentences)
+    if sentences
+    
   end
 end
